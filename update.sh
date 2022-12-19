@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "`date`" >> ip.txt
+echo "`date`" > ip.txt
 curl http://checkip.dyndns.org >> ip.txt
 git add *
 git commit -m "`date`"
