@@ -1,2 +1,8 @@
-Thu 25 May 2023 12:00:02 AM CEST
-<html><head><title>Current IP Check</title></head><body>Current IP Address: 87.143.3.103</body></html>
+Fri 26 May 2023 12:00:01 AM CEST
+<html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
