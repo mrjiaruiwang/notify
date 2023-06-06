@@ -1,2 +1,8 @@
-Tue 06 Jun 2023 12:00:02 AM CEST
-<html><head><title>Current IP Check</title></head><body>Current IP Address: 87.143.3.103</body></html>
+Wed 07 Jun 2023 12:00:01 AM CEST
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center></center>
+</body>
+</html>
