@@ -1,2 +1,2 @@
-Thu 10 Aug 2023 12:00:01 AM CEST
-<html><head><title>Current IP Check</title></head><body>Current IP Address: 87.143.8.16</body></html>
+Fri 11 Aug 2023 12:00:01 AM CEST
+<html><head><title>Current IP Check</title></head><body>Current IP Address: 87.143.6.160</body></html>
